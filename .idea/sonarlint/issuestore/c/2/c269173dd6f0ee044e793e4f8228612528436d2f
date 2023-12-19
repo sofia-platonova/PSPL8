@@ -1,0 +1,53 @@
+
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(ƒ¦€Äüÿÿÿÿ
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ş¸ıÓ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰ÃĞù
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—¯­ÿÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+H
+java:S4925#"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+H
+java:S49255"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+H
+java:S4925B"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+H
+java:S4925T"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+H
+java:S4925c"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+@
+java:S1068"*Remove this unused "logger" private field.(®–º
+
+java:S1192"fDefine a constant instead of duplicating this literal "SELECT * FROM public .\"user_data\" ;" 4 times.(÷¦‡Åøÿÿÿÿ
+q
+java:S1192"VDefine a constant instead of duplicating this literal "org.postgresql.Driver" 6 times.(õ†¨Äùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šóÈƒ
+j
+java:S2095e"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿£õèùÿÿÿÿ
+^
+java:S2095d"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+^
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+^
+java:S2095U"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+b
+java:S2095D"GUse try-with-resources or close this "Statement" in a "finally" clause.(÷¦‡Åøÿÿÿÿ
+^
+java:S20956"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(÷¦‡Åøÿÿÿÿ
+\
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(Á„íE
+^
+java:S2095C"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+j
+java:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(€½è¥ıÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÈÅàŠ
+b
+java:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(÷¦‡Åøÿÿÿÿ
